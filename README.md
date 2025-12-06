@@ -14,6 +14,6 @@ Google Fonts
 How to Use
 Just open index.html in your browser. Make sure all images/GIFs are inside the images folder.
 
-![Birthday page screenshot](images/preview of website.png)
+![Birthday page screenshot](images/previewofwebsite.jpg)
 
 ![GIF preview](images/cheers.gif)
