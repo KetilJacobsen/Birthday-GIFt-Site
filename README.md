@@ -1,5 +1,7 @@
 A fun little webpage that celebrates someone's birthday with hover-to-reveal GIFs, bright colors, and playful fonts.
 
+Live Site: https://classy-starship-2aa32f.netlify.app
+
 Features
 Birthday header with photo, age, and date
 Gift boxes that change to GIFs when hovered
