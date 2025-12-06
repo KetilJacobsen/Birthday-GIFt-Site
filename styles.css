@@ -1,0 +1,117 @@
+/*
+Challenge:
+Style the app according to the provided design.
+The font is called "Happy Monkey" and can be
+embedded via Google Fonts.
+
+Don't know how to make an image round? Google it!
+Also, consider how you should select the image 
+(class vs id vs element selector).
+*/
+
+
+body {
+    text-align: center;
+    font-family: "Happy Monkey", system-ui;
+    background: linear-gradient(#a2d2ff, #EFB0C9);
+    color: #ffffff;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+#rounded-corners {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border: 5px solid #EFB0C9;
+
+}
+
+h1, h2, h3, h4, p {
+    text-shadow: 0px 0px 1px black;
+}
+
+#bday-age {
+    background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 0 10px 0;
+}
+
+#bday-date {
+    background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-top: 0px;
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gift-section {
+    margin-top: 25px;
+}
+
+
+.gift-title {
+    margin-bottom: 10px;
+}
+
+.gift-hint {
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.gift-img {
+    background-image: url("./images/gift-cover.png");
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    border: 5px solid white;
+    margin-top: 0px;
+    margin: 0 auto;
+}
+
+#gift-img-happy:hover {
+    background-image: url("./images/happy.gif")
+}
+
+#gift-img-hot:hover {
+    background-image: url("./images/hot.gif")
+}
+
+#gift-img-genius:hover {
+    background-image: url("./images/genius.gif")
+}
+
+#gift-img-badass:hover {
+    background-image: url("./images/badass.gif")
+}
+
+#gift-img-cheers {
+    height: 200px;
+}
+
+#gift-img-cheers:hover {
+    background-image:url("./images/cheers.gif")
+}
+
+#footer {
+    font-style: italic;
+    width: 400px;
+    margin: 20px auto 20px
+}
+
+a {
+    color: #ffffff
+}
