@@ -3,6 +3,7 @@ A fun little webpage that celebrates someone's birthday with hover-to-reveal GIF
 Live Site: https://classy-starship-2aa32f.netlify.app
 
 Preview:
+
 ![Birthday page screenshot](images/Preview.jpg)
 
 Features
