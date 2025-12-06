@@ -2,6 +2,9 @@ A fun little webpage that celebrates someone's birthday with hover-to-reveal GIF
 
 Live Site: https://classy-starship-2aa32f.netlify.app
 
+Preview:
+![Birthday page screenshot](images/Preview.jpg)
+
 Features
 Birthday header with photo, age, and date
 Gift boxes that change to GIFs when hovered
@@ -15,7 +18,5 @@ Google Fonts
 
 How to Use
 Just open index.html in your browser. Make sure all images/GIFs are inside the images folder.
-
-![Birthday page screenshot](images/Preview.jpg)
 
 ![GIF preview](images/cheers.gif)
